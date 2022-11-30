@@ -4,7 +4,7 @@
 | github | @rainbowvalue|
 | twitter | @\_rainbowvalue\_| ;; @_rainbowvalue_
 | reddit | u/rainbowvalue|
-| websit | http://rainbowvalue.me/|
+| website | http://rainbowvalue.me/|
 
 <!---
 rainbowvalue/rainbowvalue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
