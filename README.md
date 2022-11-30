@@ -2,7 +2,7 @@
 |:---|:---|
 | email | rainbowvalue@proton.me|
 | github | @rainbowvalue|
-| twitter | @_rainbowvalue_|
+| twitter | @\_rainbowvalue\_| ;; @_rainbowvalue_
 | reddit | u/rainbowvalue|
 | websit | http://rainbowvalue.me/|
 
