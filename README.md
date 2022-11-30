@@ -1,8 +1,10 @@
-- email: rainbowvalue@proton.me
-- github: @rainbowvalue
-- twitter: @_rainbowvalue_
-- reddit: u/rainbowvalue
-- websit: http://rainbowvalue.me/
+| k | v |
+|:---|:---|
+| email | rainbowvalue@proton.me|
+| github | @rainbowvalue|
+| twitter | @_rainbowvalue_|
+| reddit | u/rainbowvalue|
+| websit | http://rainbowvalue.me/|
 
 <!---
 rainbowvalue/rainbowvalue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
